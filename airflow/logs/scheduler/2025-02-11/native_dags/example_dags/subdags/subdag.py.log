@@ -1,0 +1,20 @@
+[2025-02-11T00:14:58.714-0300] {processor.py:186} INFO - Started process (PID=70986) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:14:58.715-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-11T00:14:58.717-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:14:58.716-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:14:58.719-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:14:58.726-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2025-02-11T00:16:15.387-0300] {processor.py:186} INFO - Started process (PID=71543) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:15.389-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-11T00:16:15.391-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:15.391-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:15.393-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:15.402-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2025-02-11T00:16:50.454-0300] {processor.py:186} INFO - Started process (PID=71588) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:50.456-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-11T00:16:50.458-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:50.457-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:50.460-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:16:50.467-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2025-02-11T00:17:40.261-0300] {processor.py:186} INFO - Started process (PID=71922) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:17:40.264-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-11T00:17:40.266-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:40.266-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:17:40.268-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-11T00:17:40.275-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds

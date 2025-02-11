@@ -1,0 +1,22 @@
+[2025-02-11T00:16:02.209-0300] {processor.py:186} INFO - Started process (PID=71533) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:16:02.210-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-02-11T00:16:02.212-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.211-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:16:02.219-0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:16:02.385-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.384-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_display_name
+[2025-02-11T00:16:02.401-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.400-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_display_name
+[2025-02-11T00:16:02.414-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.414-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:example_display_name
+[2025-02-11T00:16:02.442-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.441-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_display_name
+[2025-02-11T00:16:02.460-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.459-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_display_name
+[2025-02-11T00:16:02.474-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.473-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_display_name
+[2025-02-11T00:16:02.489-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.488-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_display_name
+[2025-02-11T00:16:02.489-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.489-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:02.497-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.496-0300] {dag.py:3262} INFO - Creating ORM DAG for example_display_name
+[2025-02-11T00:16:02.497-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:02.497-0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-02-11T00:16:02.520-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.317 seconds
+[2025-02-11T00:17:07.011-0300] {processor.py:186} INFO - Started process (PID=71669) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:17:07.013-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-02-11T00:17:07.015-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:07.015-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:17:07.023-0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2025-02-11T00:17:07.036-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:07.035-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:17:07.046-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:07.046-0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-02-11T00:17:07.071-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.067 seconds

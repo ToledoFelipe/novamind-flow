@@ -1,1 +1,9 @@
 .env
+
+airflow/standalone_admin_password.txt
+airflow/airflow.cfg
+airflow/airflow.db
+airflow/webserver_config.py
+airflow/logs/dag_processor_manager/*
+
+misc

@@ -1,0 +1,29 @@
+[2025-02-11T00:15:34.336-0300] {processor.py:186} INFO - Started process (PID=71421) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:15:34.336-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-11T00:15:34.338-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.338-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:15:34.345-0300] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:15:34.508-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.507-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2025-02-11T00:15:34.523-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.523-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2025-02-11T00:15:34.536-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.535-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2025-02-11T00:15:34.559-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.558-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2025-02-11T00:15:34.572-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.572-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2025-02-11T00:15:34.587-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.586-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2025-02-11T00:15:34.600-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.600-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2025-02-11T00:15:34.600-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.600-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:15:34.608-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.608-0300] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2025-02-11T00:15:34.608-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:34.608-0300] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-11T00:15:34.631-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.300 seconds
+[2025-02-11T00:16:42.093-0300] {processor.py:186} INFO - Started process (PID=71578) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:16:42.095-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-11T00:16:42.097-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:42.096-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:16:42.104-0300] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:16:42.116-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:42.116-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:42.125-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:42.125-0300] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-11T00:16:42.148-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2025-02-11T00:17:36.866-0300] {processor.py:186} INFO - Started process (PID=71917) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:17:36.867-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-11T00:17:36.868-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:36.868-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:17:36.875-0300] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-11T00:17:36.886-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:36.886-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:17:36.895-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:36.895-0300] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-11T00:17:36.922-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.062 seconds

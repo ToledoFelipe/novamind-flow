@@ -1,0 +1,22 @@
+[2025-02-11T00:15:46.058-0300] {processor.py:186} INFO - Started process (PID=71430) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:15:46.059-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-11T00:15:46.061-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.060-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:15:46.068-0300] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:15:46.246-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.245-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_params_ui_tutorial
+[2025-02-11T00:15:46.261-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.261-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_params_ui_tutorial
+[2025-02-11T00:15:46.274-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.274-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:example_params_ui_tutorial
+[2025-02-11T00:15:46.297-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.297-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_params_ui_tutorial
+[2025-02-11T00:15:46.311-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.310-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_params_ui_tutorial
+[2025-02-11T00:15:46.324-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.323-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_params_ui_tutorial
+[2025-02-11T00:15:46.337-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.337-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_params_ui_tutorial
+[2025-02-11T00:15:46.337-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.337-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:15:46.345-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.345-0300] {dag.py:3262} INFO - Creating ORM DAG for example_params_ui_tutorial
+[2025-02-11T00:15:46.345-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:46.345-0300] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-11T00:15:46.367-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.314 seconds
+[2025-02-11T00:16:55.602-0300] {processor.py:186} INFO - Started process (PID=71593) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:16:55.605-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-02-11T00:16:55.606-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:55.606-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:16:55.613-0300] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-02-11T00:16:55.643-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:55.643-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:55.652-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:55.652-0300] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-02-11T00:16:55.676-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.078 seconds
