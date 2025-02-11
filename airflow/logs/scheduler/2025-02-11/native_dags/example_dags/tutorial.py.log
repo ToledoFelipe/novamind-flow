@@ -1,0 +1,29 @@
+[2025-02-11T00:15:08.671-0300] {processor.py:186} INFO - Started process (PID=71119) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:15:08.671-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-02-11T00:15:08.673-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.673-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:15:08.679-0300] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:15:08.838-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.837-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-02-11T00:15:08.853-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.853-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-02-11T00:15:08.866-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.866-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial
+[2025-02-11T00:15:08.891-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.890-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2025-02-11T00:15:08.904-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.904-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial
+[2025-02-11T00:15:08.916-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.916-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2025-02-11T00:15:08.930-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.929-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial
+[2025-02-11T00:15:08.930-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.930-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:15:08.937-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.937-0300] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2025-02-11T00:15:08.942-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:08.942-0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-02-10 00:00:00+00:00, run_after=2025-02-11 00:00:00+00:00
+[2025-02-11T00:15:08.966-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.300 seconds
+[2025-02-11T00:16:22.959-0300] {processor.py:186} INFO - Started process (PID=71550) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:16:22.962-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-02-11T00:16:22.964-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:22.963-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:16:22.971-0300] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:16:22.985-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:22.984-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:23.002-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:23.002-0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-02-10 00:00:00+00:00, run_after=2025-02-11 00:00:00+00:00
+[2025-02-11T00:16:23.039-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2025-02-11T00:17:17.023-0300] {processor.py:186} INFO - Started process (PID=71686) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:17:17.025-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-02-11T00:17:17.027-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:17.027-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:17:17.033-0300] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-02-11T00:17:17.044-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:17.044-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:17:17.058-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:17.058-0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-02-10 00:00:00+00:00, run_after=2025-02-11 00:00:00+00:00
+[2025-02-11T00:17:17.081-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds

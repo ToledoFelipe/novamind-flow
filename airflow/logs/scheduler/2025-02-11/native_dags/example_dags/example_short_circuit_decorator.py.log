@@ -1,0 +1,29 @@
+[2025-02-11T00:15:24.571-0300] {processor.py:186} INFO - Started process (PID=71281) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:15:24.571-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-02-11T00:15:24.573-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.573-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:15:24.582-0300] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:15:24.748-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.747-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_short_circuit_decorator
+[2025-02-11T00:15:24.763-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.763-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_short_circuit_decorator
+[2025-02-11T00:15:24.777-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.776-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:example_short_circuit_decorator
+[2025-02-11T00:15:24.801-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.800-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_short_circuit_decorator
+[2025-02-11T00:15:24.816-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.815-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_short_circuit_decorator
+[2025-02-11T00:15:24.829-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.829-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_short_circuit_decorator
+[2025-02-11T00:15:24.843-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.843-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_short_circuit_decorator
+[2025-02-11T00:15:24.844-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.843-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:15:24.851-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.851-0300] {dag.py:3262} INFO - Creating ORM DAG for example_short_circuit_decorator
+[2025-02-11T00:15:24.851-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.851-0300] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-02-11T00:15:24.875-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.309 seconds
+[2025-02-11T00:16:33.850-0300] {processor.py:186} INFO - Started process (PID=71563) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:16:33.852-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-02-11T00:16:33.854-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.854-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:16:33.863-0300] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:16:33.881-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.881-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:33.892-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.892-0300] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-02-11T00:16:33.925-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.080 seconds
+[2025-02-11T00:17:29.974-0300] {processor.py:186} INFO - Started process (PID=71794) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:17:29.981-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2025-02-11T00:17:29.983-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:29.983-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:17:29.991-0300] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2025-02-11T00:17:30.006-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:30.005-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:17:30.016-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:30.016-0300] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2025-02-11T00:17:30.041-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.072 seconds

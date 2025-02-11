@@ -1,0 +1,29 @@
+[2025-02-11T00:15:23.856-0300] {processor.py:186} INFO - Started process (PID=71279) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:15:23.857-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-02-11T00:15:23.859-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:23.859-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:15:23.873-0300] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:15:24.063-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.063-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2025-02-11T00:15:24.079-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.079-0300] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2025-02-11T00:15:24.092-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.092-0300] {override.py:1930} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2025-02-11T00:15:24.116-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.116-0300] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_task_group_decorator
+[2025-02-11T00:15:24.131-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.130-0300] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_task_group_decorator
+[2025-02-11T00:15:24.144-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.143-0300] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_task_group_decorator
+[2025-02-11T00:15:24.162-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.162-0300] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_task_group_decorator
+[2025-02-11T00:15:24.163-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.163-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:15:24.172-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.172-0300] {dag.py:3262} INFO - Creating ORM DAG for example_task_group_decorator
+[2025-02-11T00:15:24.172-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:15:24.172-0300] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-02-11T00:15:24.193-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.342 seconds
+[2025-02-11T00:16:33.091-0300] {processor.py:186} INFO - Started process (PID=71562) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:16:33.094-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-02-11T00:16:33.095-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.095-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:16:33.107-0300] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:16:33.122-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.122-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:16:33.132-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:16:33.131-0300] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-02-11T00:16:33.155-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.069 seconds
+[2025-02-11T00:17:28.840-0300] {processor.py:186} INFO - Started process (PID=71743) to work on /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:17:28.841-0300] {processor.py:914} INFO - Processing file /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-02-11T00:17:28.843-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:28.843-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:17:28.856-0300] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-02-11T00:17:28.874-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:28.873-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-11T00:17:28.884-0300] {logging_mixin.py:190} INFO - [2025-02-11T00:17:28.884-0300] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-02-11T00:17:28.911-0300] {processor.py:208} INFO - Processing /home/felipe/lab/novamind-flow/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.076 seconds
