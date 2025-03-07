@@ -57,6 +57,13 @@ To add new DAGs:
 - The `standalone_admin_password.txt` contains the admin password for standalone mode
 - Make sure to secure your credentials and never commit sensitive information to version control
 
+## To DO
+
+- [ ] Create a crawler based at python operator and run locally, retrieve the information as json reading though https://www.tabnews.com.br/ 
+- [ ] Add a pre commit and after commit with a github actions to apply security checks 
+- [ ] Add black and flake8 code to do testing
+- [ ] Add a new folder called scripts
+
 ## Additional Resources
 
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
