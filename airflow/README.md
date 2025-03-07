@@ -60,6 +60,9 @@ To add new DAGs:
 ## To DO
 
 - [ ] Create a crawler based at python operator and run locally, retrieve the information as json reading though https://www.tabnews.com.br/ 
+- [ ] Add a pre commit and after commit with a github actions to apply security checks 
+- [ ] Add black and flake8 code to do testing
+- [ ] Add a new folder called scripts
 
 ## Additional Resources
 
